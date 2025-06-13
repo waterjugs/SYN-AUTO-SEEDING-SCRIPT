@@ -50,7 +50,7 @@ IF YOU WANT YOUR COMPUTER TO WAKE UP FROM SLEEP <br>
 -You need to go to "Control Panel" then "Hardware and Sound" then "Power Options" then "Edit Power Plan". <br>
 -On the power plan page click "Change advanced power settings". <br>
 -Make sure that the circled setting is set to "Enable" on all plans from the drop down shown as "Balanced [Active]" in the screenshot. 
-![Power Plan]() <br>
+![Power Plan]( <br>
 <br>
 -Next Open "Settings" <br>
 -Go to "Accounts" on the left window. <br>
