@@ -9,6 +9,8 @@
   - 2560 x 1080
   - 3440 x 1440
   - 5120 x 2160
+- If you do not have one of these resolutions you will have this error box appear. 
+![first](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Game%20Resolution%20Error.png)
  
 
 - Download the latest release from the [releases](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/releases) page.
@@ -17,11 +19,11 @@
 - Click the `More info` button on defender pop up
 > Why are you seeing this pop up? Because I am not paying microsoft for a certificate to run this script. If you have concerns about the code you can check all of the exe files in notepad++. The exe files have the instructions they execute at the bottom of the file. 
   
-![first](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2001.png)
+![second](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2001.png)
 
 - Click `Run anyway`
 
-![second](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2002.png)
+![third](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2002.png)
 
 - Go to "C:\users\\*youruserprofile*\hll-seq-seed"
 - Repeat these same steps for `script.bat`
