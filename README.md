@@ -1,6 +1,6 @@
 # Install
 
-- This automatic seeding scipt only works for the steam application of Hell Let Loose currently.
+- This automatic seeding scipt only works for Windows and the steam application of Hell Let Loose currently.
 - Delete all Intro Movies from your game folders. The movies are in  "*YourSteamInstallPath*\\steamapps\common\Hell Let Loose\HLL\Content\Movies"
 - You must have one of the following monitor resolutions for the seeding script to work:
   - 1920 x 1080
@@ -37,7 +37,7 @@
 
 IF YOU WANT YOUR COMPUTER TO GO TO SLEEP AFTER SEEDING!
 
-- Go to the instal directory should be "C:\users\\*youruserprofile*\hll-seq-seed"
+- Go to the install directory should be "C:\users\\*youruserprofile*\hll-seq-seed"
 - Find the script.bat file.
 - Right Click the file and select "edit in Notepad"
 - Go to the end of the file
@@ -56,7 +56,7 @@ It should now read like
 
 IF YOU WANT YOUR COMPUTER TO WAKE UP FROM SLEEP <br>
 
--The task is already setup to do wake up from sleep but you must be logged into your computer with the account running the bot when you put it to sleep. <br>
+-The task is already setup to wake up your computer from sleep, but you must be logged into your computer with your user account running the bot when you put it to sleep. <br>
 -There is unfortunately no way to make the task login after a restart. This is a security decision made by Microsoft.<br>
 -If you computer is not waking from sleep after you are logged in and put it to sleep make sure the Windows settings below are set. <br>
 -You need to go to "Control Panel" then "Hardware and Sound" then "Power Options" then "Edit Power Plan". <br>
