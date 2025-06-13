@@ -1,6 +1,6 @@
 # Install
 
-- This automatic seeding scipt only works for Windows and the steam application of Hell Let Loose currently.
+- This automatic seeding scipt only works for Windows and specifically the Steam application of Hell Let Loose.
 - Delete all Intro Movies from your game folders. The movies are in  "*YourSteamInstallPath*\\steamapps\common\Hell Let Loose\HLL\Content\Movies"
 - You must have one of the following monitor resolutions for the seeding script to work:
   - 1920 x 1080
@@ -9,7 +9,7 @@
   - 2560 x 1080
   - 3440 x 1440
   - 5120 x 2160
-- If you do not have one of these resolutions you will have this error box appear.
+- If you do not have one of these resolutions you will have this error box appear. You can however change your desktop resolution to one that is support and change your 
   
 ![first](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Game%20Resolution%20Error.png)
  
