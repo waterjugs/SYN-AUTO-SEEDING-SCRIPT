@@ -15,7 +15,7 @@
 - Extract the zip file
 - Double click on `enable.bat` to run
 - Click the `More info` button on defender pop up
-> Why are you seeing this pop up? Because I am not paying microsoft for a certificate to run this script. If you have concerns about the code you can check all of it in notepad++ the exe files have the instructions they execute at the bottom of the file. 
+> Why are you seeing this pop up? Because I am not paying microsoft for a certificate to run this script. If you have concerns about the code you can check all of the exe files in notepad++. The exe files have the instructions they execute at the bottom of the file. 
   
 ![first](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2001.png)
 
@@ -23,18 +23,18 @@
 
 ![second](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Windows%20Security%2002.png)
 
-- Go to "C:\users\*youruserprofile*\hll-seq-seed"
+- Go to "C:\users\\*youruserprofile*\hll-seq-seed"
 - Repeat these same steps for `script.bat`
 - At this point you should be able to open up your Windows Task Scheduler and see the newly created task `SYN seed`
 - You can find your Windows Task Scheduler by hitting the windows key and typing "Task" then clicking on the "Task Schduler"
 ![task](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Syn%20Task.png)
   
 - Even if you start late you will still be helping out! The task skips over already seeded servers so dont be afraid to start it manualy whenever you can if thats what you want to do.
-- You can manualy launch the bot by going to the instal directory "C:\users\*youruserprofile*\hll-seq-seed" and launching script.bat
+- You can manually launch the bot by going to the instal directory "C:\users\\*youruserprofile*\hll-seq-seed" and launching script.bat
 
 IF YOU WANT YOUR COMPUTER TO GO TO SLEEP AFTER SEEDING!
 
-- Go to the instal directory should be "C:\users\*youruserprofile*\hll-seq-seed"
+- Go to the instal directory should be "C:\users\\*youruserprofile*\hll-seq-seed"
 - Find the script.bat file.
 - Right Click the file and select "edit in Notepad"
 - Go to the end of the file
