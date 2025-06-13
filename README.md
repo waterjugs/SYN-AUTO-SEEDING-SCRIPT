@@ -69,6 +69,3 @@ IF YOU WANT YOUR COMPUTER TO WAKE UP FROM SLEEP <br>
 -In the main right window go to "Sign-In options" with the key icon <br>
 -Scroll to "Additional Settings" Make sure "If you've been away, when should Windows require you to sign in again?" Is set to "Never" as below. 
 ![Account Settings](https://github.com/waterjugs/SYN-AUTO-SEEDING-SCRIPT/blob/screenshots/Account%20Setting.png)
-
-
-
